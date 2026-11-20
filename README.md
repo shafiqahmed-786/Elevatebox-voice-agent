@@ -5,7 +5,8 @@ sell e-commerce website development in Telugu/Hindi/English, qualify the lead, f
 mid-call on high intent, book callbacks from natural speech, and follow up with real conversation
 content.
 
-![Uploading image.png…]()
+<img width="2179" height="1679" alt="image" src="https://github.com/user-attachments/assets/cb9e21e1-c316-4200-8911-3d7f7535cde5" />
+
 
 
 **Read this first:** this README distinguishes **VERIFIED LOCALLY** (I ran it, here's the output)
