@@ -5,6 +5,9 @@ sell e-commerce website development in Telugu/Hindi/English, qualify the lead, f
 mid-call on high intent, book callbacks from natural speech, and follow up with real conversation
 content.
 
+![Uploading image.png…]()
+
+
 **Read this first:** this README distinguishes **VERIFIED LOCALLY** (I ran it, here's the output)
 from **REQUIRES EXTERNAL CREDENTIALS** (written correctly, cannot be exercised without an account
 I don't have access to). No claim below says a real phone call or a real WhatsApp message was sent,
